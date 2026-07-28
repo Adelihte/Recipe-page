@@ -64,7 +64,7 @@ www.sololearn.com taught me html and css basics and some intermediate levels on 
 - What tools did you use (ChatGPT)
 - How did you use them (Asking questions on areas i don't know)
 
-## Author
+Author
 
 - Website - [ADEBISI DANIEL](https://adelihte.github.io/Recipe-page/)
 - Frontend Mentor - [@Adelihte](https://www.frontendmentor.io/profile/yourusername)
